@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "techconomy:item/minecoin_bag"
+    },
+    "overrides": [
+        { "predicate": { "filled": 0.0000001 }, "model": "techconomy:item/minecoin_bag_filled" }
+    ]
+}

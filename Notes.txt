@@ -1,0 +1,17 @@
+- For Grinders,Hostile mobs have a chance of dropping a coin
+- For Farmers, Farming has chance of dropping a coin
+- For Explorers, Coins in Chest loot table
+- For Miners, Chance of ore dropping a coin
+- For Power People, Coin Generator
+
+- Coin Trader Villager buys coins
+
+- Coin Converter Converts coins to other coins has 9 slots for input and 9 slots for output
+ middle button selects what coin you want to convert to, if input coin is == output coin then move the coin
+ requires power and has furnace like conversion time before conversion
+
+- Shop when right-clicked with some sort of payment it gives you the item(s) in the shop
+Inputs: Power, Items
+Outputs: Coins
+
+- Coin Generator uses lots of power to generate coins

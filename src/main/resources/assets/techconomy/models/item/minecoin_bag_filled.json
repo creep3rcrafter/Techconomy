@@ -1,0 +1,6 @@
+{
+    "parent": "techconomy:item/minecoin_bag",
+    "textures": {
+        "layer0": "techconomy:item/minecoin_bag_filled"
+    }
+}
